@@ -1,0 +1,9 @@
+.git
+.github
+.env
+.env.*
+!.env.example
+*.md
+parse_link.py
+.gitignore
+.dockerignore
